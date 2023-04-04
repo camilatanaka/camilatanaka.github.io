@@ -1,3 +1,11 @@
 body {
   font-family: "Arial", sans-serif;
 }
+
+h1 {
+  font-size: 2em;
+  color: #FF5733; /* laranja */
+  text-align: center;
+  background-color: #F9E79F; /* amarelo claro */
+  border-bottom: 2px solid #FFC300; /* amarelo escuro */
+}
