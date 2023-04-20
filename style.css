@@ -9,3 +9,14 @@ h1 {
   -webkit-text-fill-color: transparent;
   text-align: center;
 }
+#two {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#two .content {
+    margin: 0 2rem;
+}
